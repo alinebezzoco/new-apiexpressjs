@@ -11,5 +11,3 @@ No Promp de comando:
 >npm install
 
 >node index.js
-# apiexpressjs
-# apiexpressjs
